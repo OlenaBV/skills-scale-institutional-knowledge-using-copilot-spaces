@@ -19,6 +19,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+### Roles Involved
+Key roles during initiation include Product Manager (lead), Project Manager, and input from Developers, UX Designer, Data Analyst, and DevOps Engineer for feasibility and scope. See the [Roles & Handoffs Checklist](./octoacme-roles-and-handoffs-checklist.md#phase-1-initiation) for detailed responsibilities and outputs.
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:

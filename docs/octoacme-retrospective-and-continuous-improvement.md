@@ -17,6 +17,9 @@ After each sprint, release, or important milestone. Also after incidents.
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
 
+### Roles Involved
+All team members participate. Project Manager facilitates the session. Data Analyst presents outcome metrics. UX Designer shares user feedback. DevOps Engineer reports on reliability. See the [Roles & Handoffs Checklist](./octoacme-roles-and-handoffs-checklist.md#phase-5-retrospective--continuous-improvement) for detailed activities.
+
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync

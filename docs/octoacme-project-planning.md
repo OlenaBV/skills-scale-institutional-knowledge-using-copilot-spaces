@@ -16,6 +16,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+### Roles Involved
+Project Manager facilitates planning activities. Product Manager prioritizes the backlog. Developers estimate work. UX Designer provides design specs. Data Analyst defines tracking needs. DevOps Engineer plans infrastructure changes. See the [Roles & Handoffs Checklist](./octoacme-roles-and-handoffs-checklist.md#phase-2-planning) for detailed handoffs.
+
 ## Backlog Item Template
 - Title:
 - Description:

@@ -8,6 +8,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
 
+### Roles Involved
+Developers lead implementation. Project Manager tracks progress and manages risks. Product Manager validates acceptance criteria. UX Designer reviews design fidelity. Data Analyst validates analytics. DevOps Engineer maintains CI/CD. See the [Roles & Handoffs Checklist](./octoacme-roles-and-handoffs-checklist.md#phase-3-execution) for detailed activities.
+
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
 - Pull Request workflow:

@@ -15,6 +15,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Rollback / mitigation plan documented
 - Smoke tests prepared
 
+### Roles Involved
+DevOps Engineer leads deployment activities. Developers complete final testing. Data Analyst prepares monitoring dashboards. Project Manager coordinates communications. Product Manager reviews release notes. See the [Roles & Handoffs Checklist](./octoacme-roles-and-handoffs-checklist.md#phase-4-release--deployment) for detailed handoffs.
+
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
